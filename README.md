@@ -133,3 +133,4 @@ Import (Card and Set will be most used)
 ### Running Tests
 
     python -m unittest discover -s tests/
+    [![Run on Repl.it](https://repl.it/badge/github/AqualRodinia/pokemon-tcg-sdk-python)](https://repl.it/github/AqualRodinia/pokemon-tcg-sdk-python)
